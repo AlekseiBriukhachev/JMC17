@@ -9,9 +9,6 @@
 
   <name>JMC17</name>
   <url>http://maven.apache.org</url>
-    <modules>
-        <module>Section5</module>
-    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

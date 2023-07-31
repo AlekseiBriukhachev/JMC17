@@ -1,4 +1,4 @@
-package org.aleksei.methodchallenge;
+package org.aleksei.section5.methodchallenge;
 
 public class Main {
     public static void main(String[] args) {

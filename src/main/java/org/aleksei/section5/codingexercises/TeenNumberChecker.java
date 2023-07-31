@@ -1,4 +1,4 @@
-package org.aleksei.codingexercises;
+package org.aleksei.section5.codingexercises;
 
 public class TeenNumberChecker {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.aleksei.statementswhitespace;
+package org.aleksei.section5.statementswhitespace;
 
 public class Main {
     public static void main(String[] args) {

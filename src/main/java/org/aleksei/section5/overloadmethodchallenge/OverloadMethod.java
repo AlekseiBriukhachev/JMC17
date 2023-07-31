@@ -1,4 +1,4 @@
-package org.aleksei.overloadmethodchallenge;
+package org.aleksei.section5.overloadmethodchallenge;
 
 public class OverloadMethod {
     public static void main(String[] args) {

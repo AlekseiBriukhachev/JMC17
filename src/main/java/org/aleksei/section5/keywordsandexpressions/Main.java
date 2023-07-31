@@ -1,4 +1,4 @@
-package org.aleksei.keywordsandexpressions;
+package org.aleksei.section5.keywordsandexpressions;
 
 public class Main {
     public static void main(String[] args) {
