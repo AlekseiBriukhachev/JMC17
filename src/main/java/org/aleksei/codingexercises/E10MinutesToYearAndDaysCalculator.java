@@ -1,6 +1,6 @@
-package org.aleksei.section5.codingexercises;
+package org.aleksei.codingexercises;
 
-public class MinutesToYearAndDaysCalculator {
+public class E10MinutesToYearAndDaysCalculator {
     public static void main(String[] args) {
         printYearsAndDays(525600);  //should print "525600 min = 1 y and 0 d"
 

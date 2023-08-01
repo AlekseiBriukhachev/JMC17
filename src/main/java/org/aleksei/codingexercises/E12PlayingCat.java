@@ -1,6 +1,6 @@
-package org.aleksei.section5.codingexercises;
+package org.aleksei.codingexercises;
 
-public class PlayingCat {
+public class E12PlayingCat {
     public static void main(String[] args) {
         System.out.println(isCatPlaying(true, 10)); // should return false since temperature is not in range 25 - 45
 

@@ -1,6 +1,6 @@
-package org.aleksei.section5.codingexercises;
+package org.aleksei.codingexercises;
 
-public class AreaCalculator {
+public class E9AreaCalculator {
     public static void main(String[] args) {
         System.out.println(area(5.0));
         System.out.println(area(-1));

@@ -1,6 +1,6 @@
-package org.aleksei.section5.codingexercises;
+package org.aleksei.codingexercises;
 
-public class TeenNumberChecker {
+public class E8TeenNumberChecker {
     public static void main(String[] args) {
         System.out.println(hasTeen(9, 99, 19));
         System.out.println(hasTeen(23, 15, 42));

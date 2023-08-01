@@ -1,6 +1,6 @@
-package org.aleksei.section5.codingexercises;
+package org.aleksei.codingexercises;
 
-public class DecimalComparator {
+public class E6DecimalComparator {
     public static void main(String[] args) {
         System.out.println(areEqualByThreeDecimalPlaces(-3.1756, -3.175));
         System.out.println(areEqualByThreeDecimalPlaces(3.175, 3.176));

@@ -1,6 +1,6 @@
-package org.aleksei.section5.codingexercises;
+package org.aleksei.codingexercises;
 
-public class EqualityPrinter {
+public class E11EqualityPrinter {
     public static void main(String[] args) {
         printEqual(1, 1, 1); // should print text All numbers are equal
 

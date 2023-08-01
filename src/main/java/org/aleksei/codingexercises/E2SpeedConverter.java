@@ -1,6 +1,6 @@
-package org.aleksei.section5.codingexercises;
+package org.aleksei.codingexercises;
 
-public class SpeedConverter {
+public class E2SpeedConverter {
     public static void main(String[] args) {
         printConversion(1.5);
         printConversion(10.25);

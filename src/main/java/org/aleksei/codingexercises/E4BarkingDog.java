@@ -1,6 +1,6 @@
-package org.aleksei.section5.codingexercises;
+package org.aleksei.codingexercises;
 
-public class BarkingDog {
+public class E4BarkingDog {
     public static void main(String[] args) {
         System.out.println(shouldWakeUp(true, 1));
         System.out.println(shouldWakeUp(false, 2));

@@ -1,6 +1,6 @@
-package org.aleksei.section5.codingexercises;
+package org.aleksei.codingexercises;
 
-public class PositiveNegativeZero {
+public class E1PositiveNegativeZero {
     public static void main(String[] args) {
         checkNumber(5);
         checkNumber(-10);

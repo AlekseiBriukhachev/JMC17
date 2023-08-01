@@ -1,6 +1,6 @@
-package org.aleksei.section5.codingexercises;
+package org.aleksei.codingexercises;
 
-public class MegaBytesConverter {
+public class E3MegaBytesConverter {
     public static void main(String[] args) {
         printMegaBytesAndKiloBytes(2500);
         printMegaBytesAndKiloBytes(-1024);

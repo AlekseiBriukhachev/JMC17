@@ -1,6 +1,6 @@
-package org.aleksei.section5.codingexercises;
+package org.aleksei.codingexercises;
 
-public class EqualSumChecker {
+public class E7EqualSumChecker {
     public static void main(String[] args) {
         System.out.println(hasEqualSum(1, 1, 1));
         System.out.println(hasEqualSum(1, 1, 2));

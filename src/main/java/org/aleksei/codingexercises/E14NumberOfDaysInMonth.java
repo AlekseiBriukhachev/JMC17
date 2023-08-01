@@ -1,6 +1,6 @@
-package org.aleksei.section6.codingexercises;
+package org.aleksei.codingexercises;
 
-public class NumberOfDaysInMonth {
+public class E14NumberOfDaysInMonth {
     public static void main(String[] args) {
         System.out.println(isLeapYear(-1600));// →  should return false since the parameter is not in the range (1-9999)
 

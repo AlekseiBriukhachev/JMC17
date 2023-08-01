@@ -1,6 +1,6 @@
-package org.aleksei.section5.codingexercises;
+package org.aleksei.codingexercises;
 
-public class LeapYear {
+public class E5LeapYear {
     public static void main(String[] args) {
         System.out.println(isLeapYear(-1600));
         System.out.println(isLeapYear(1600));

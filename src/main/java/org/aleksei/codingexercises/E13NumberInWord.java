@@ -1,6 +1,6 @@
-package org.aleksei.section6.codingexercises;
+package org.aleksei.codingexercises;
 
-public class NumberInWord {
+public class E13NumberInWord {
     public static void main(String[] args) {
         printNumberInWord(0);
 
